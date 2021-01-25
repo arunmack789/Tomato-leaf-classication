@@ -51,4 +51,4 @@ gunicorn
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
-wheels==0.35
+wheels==0.36
